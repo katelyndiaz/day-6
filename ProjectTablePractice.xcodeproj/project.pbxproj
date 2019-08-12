@@ -12,6 +12,7 @@
 		9F00A5E72301EAC7001A5991 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F00A5E52301EAC7001A5991 /* Main.storyboard */; };
 		9F00A5E92301EAC9001A5991 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F00A5E82301EAC9001A5991 /* Assets.xcassets */; };
 		9F00A5EC2301EAC9001A5991 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F00A5EA2301EAC9001A5991 /* LaunchScreen.storyboard */; };
+		9F00A5F42301EF18001A5991 /* PizzaTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F00A5F32301EF18001A5991 /* PizzaTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9F00A5E82301EAC9001A5991 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F00A5EB2301EAC9001A5991 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F00A5ED2301EAC9001A5991 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F00A5F32301EF18001A5991 /* PizzaTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PizzaTableViewController.swift; path = ../../PizzaTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9F00A5E82301EAC9001A5991 /* Assets.xcassets */,
 				9F00A5EA2301EAC9001A5991 /* LaunchScreen.storyboard */,
 				9F00A5ED2301EAC9001A5991 /* Info.plist */,
+				9F00A5F32301EF18001A5991 /* PizzaTableViewController.swift */,
 			);
 			path = ProjectTablePractice;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F00A5E42301EAC7001A5991 /* ViewController.swift in Sources */,
+				9F00A5F42301EF18001A5991 /* PizzaTableViewController.swift in Sources */,
 				9F00A5E22301EAC7001A5991 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
